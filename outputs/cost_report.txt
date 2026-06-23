@@ -1,0 +1,6 @@
+=== Cost / Token usage report ===
+  extract                calls=1    tok=354136   (p=319204, c=34932) time=18.126s
+  flat_rag_answer        calls=21   tok=22386    (p=19986, c=2400) time=0.011s
+  graph_build            calls=1    tok=0        (p=0, c=0) time=0.037s
+  graph_rag_answer       calls=21   tok=40850    (p=36737, c=4113) time=0.018s
+  TOTAL                  tok=417372

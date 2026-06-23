@@ -1,0 +1,16 @@
+{
+  "nodes": 1955,
+  "edges": 1973,
+  "relation_types": {
+    "MENTIONED_WITH": 1931,
+    "FOUNDED_IN": 17,
+    "COMPETES_WITH": 7,
+    "INVESTED_IN": 5,
+    "HEADQUARTERED_IN": 5,
+    "HAS_CEO": 4,
+    "CEO_OF": 2,
+    "ACQUIRED": 1,
+    "PARTNERED_WITH": 1
+  },
+  "density": 0.00052
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "extract",
+    "calls": 1,
+    "prompt_tokens": 319204,
+    "completion_tokens": 34932,
+    "total_tokens": 354136,
+    "seconds": 18.126
+  },
+  {
+    "stage": "flat_rag_answer",
+    "calls": 21,
+    "prompt_tokens": 19986,
+    "completion_tokens": 2400,
+    "total_tokens": 22386,
+    "seconds": 0.011
+  },
+  {
+    "stage": "graph_build",
+    "calls": 1,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "seconds": 0.037
+  },
+  {
+    "stage": "graph_rag_answer",
+    "calls": 21,
+    "prompt_tokens": 36737,
+    "completion_tokens": 4113,
+    "total_tokens": 40850,
+    "seconds": 0.018
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "n_questions": 20,
+  "flat_avg_recall": 0.85,
+  "graph_avg_recall": 0.525,
+  "graph_wins": 0,
+  "flat_wins": 7,
+  "ties": 13,
+  "flat_hallucinations": 0
+}
